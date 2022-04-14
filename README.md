@@ -1,2 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=60/desc=JIIN's%20Github20%Profile&fontSize=30") />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Welcome!&desc=Jiin's%20Github%20Profile&fontAlignY=40&descAlign=60&descAlignY=55)
