@@ -1,2 +1,2 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20asdf%20&height=300&fontSize=100&textBg=true) />
 
