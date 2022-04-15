@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Welcome!&desc=Jiin's%20Github%20Profile&fontAlignY=40&descAlign=60&descAlignY=55)
 <div align="center">
-<h2><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJIIIINN%2Fhit-counter&count_bg=%23FB9C8B&title_bg=%23555555&icon=tui.svg&icon_color=%235BE1FD&title=hits&edge_flat=false"/></a>
+<h2>Hi there 👋
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJIIIINN%2Fhit-counter&count_bg=%23FB9C8B&title_bg=%23555555&icon=tui.svg&icon_color=%235BE1FD&title=hits&edge_flat=false"/></a>
 <img src="https://img.shields.io/github/followers/JJIIIINN?style=social">
-<h2>👋 Me
+<h2>📞 My SNS
 <h3><a href="https://www.facebook.com/profile.php?id=100011705792413" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
 <a href="https://https://www.instagram.com/ji_in_0724" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/kgb21537@gmail.com-EA4335?style/badge&logo=Gmail&logoColor=white"></a>
