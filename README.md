@@ -23,6 +23,4 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style/badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style/badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style/badge&logo=Python&logoColor=white">
-<h4>![JJIIIINN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJIIIINN&show_icons=true&theme=midnight-purple)
-</a>
 </div>
