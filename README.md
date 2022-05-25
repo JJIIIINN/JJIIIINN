@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/followers/JJIIIINN?style=social">
 <h2>📞 My SNS 📞
 <h4><a href="https://www.facebook.com/profile.php?id=100011705792413" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
-<a href="https://https://www.instagram.com/ji_in_0724" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/ji_in_0724/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/kgb21537@gmail.com-EA4335?style/badge&logo=Gmail&logoColor=white"></a>
 <img src="https://img.shields.io/badge/010 5817 2022-00A98F?style/badge&logo=About.me&logoColor=white">
 <h2>🦾 Skills 🦾
