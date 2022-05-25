@@ -24,3 +24,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style/badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style/badge&logo=Python&logoColor=white">
 </div>
+  <p align="center">
+  <a href="https://github.com/JJIIIINN/github-readme-stats">
+    <br><br><img src="https://github-readme-stats.vercel.app/api?username=JJIIIINN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
+  </p>
