@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/badge/010 5817 2022-00A98F?style/badge&logo=About.me&logoColor=white">
 <h2>🦾 Skills 🦾
 <h4><img src="https://img.shields.io/badge/C-A8B9CC?style/badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style/badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style/badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style/badge&logo=JavaScript&logoColor=white">
 <h2>🛠 Tools 🛠
 <h4><img src="https://img.shields.io/badge/Git-F05032?style/badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitKraken-179287?style/badge&logo=GitKraKen&logoColor=white">
@@ -16,9 +19,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style/badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
 <h2>✏ Learning ✏
-<h4><img src="https://img.shields.io/badge/HTML5-E34F26?style/badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style/badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style/badge&logo=JavaScript&logoColor=white">
+<h4>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style/badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style/badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style/badge&logo=Python&logoColor=white">
