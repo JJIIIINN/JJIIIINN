@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi there 👋<br><br>
+<h2>Hi there! 👋<br><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJIIIINN%2Fhit-counter&count_bg=%23FB9C8B&title_bg=%23555555&icon=tui.svg&icon_color=%235BE1FD&title=hits&edge_flat=false"/></a>
 <img src="https://img.shields.io/github/followers/JJIIIINN?style=social">
 <h2>📞 My SNS 📞
