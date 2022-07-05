@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style/badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style/badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style/badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style/badge&logo=React&logoColor=white">
 </div>
   <p align="center">
   <a href="https://github.com/JJIIIINN/github-readme-stats">
