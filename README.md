@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style/badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style/badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style/badge&logo=Postman&logoColor=white">
 <h2>✏ Learning ✏
 <h4>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style/badge&logo=Kotlin&logoColor=white">
