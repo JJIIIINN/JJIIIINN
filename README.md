@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style/badge&logo=Postman&logoColor=white">
 <h2>✏ Learning ✏
 <h4>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style/badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style/badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style/badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style/badge&logo=Python&logoColor=white">
