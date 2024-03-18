@@ -1,36 +1,12 @@
-<div align="center">
-<h1>Hi there 👋<br><br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJIIIINN%2Fhit-counter&count_bg=%23FB9C8B&title_bg=%23555555&icon=tui.svg&icon_color=%235BE1FD&title=hits&edge_flat=false"/></a>
-<img src="https://img.shields.io/github/followers/JJIIIINN?style=social">
-<h2>📞 My SNS 📞
-<h4><a href="https://www.facebook.com/profile.php?id=100011705792413" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/ji_in_0724/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/kgb21537@gmail.com-EA4335?style/badge&logo=Gmail&logoColor=white"></a>
-<img src="https://img.shields.io/badge/010 5817 2022-00A98F?style/badge&logo=About.me&logoColor=white">
-<h2>🦾 Skills 🦾
-<h4><img src="https://img.shields.io/badge/C-A8B9CC?style/badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style/badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style/badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style/badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style/badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/React Router-CA4245?style/badge&logo=React Router&logoColor=white">
-<h2>🛠 Tools 🛠
-<h4><img src="https://img.shields.io/badge/Git-F05032?style/badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitKraken-179287?style/badge&logo=GitKraKen&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style/badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style/badge&logo=Visual Studio&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style/badge&logo=Postman&logoColor=white">
-<h2>✏ Learning ✏
-<h4>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style/badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/React Query-FF4154?style/badge&logo=React Query&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style/badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Redux Saga-999999?style/badge&logo=Redux-Saga&logoColor=white">
-<img src="https://img.shields.io/badge/Recoil-0075EB?style/badge&logo=Revolut&logoColor=white">
-</div>
-  <p align="center">
-  <a href="https://github.com/JJIIIINN/github-readme-stats">
-    <br><br><img src="https://github-readme-stats.vercel.app/api?username=JJIIIINN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  </a>
-  </p>
+### Hi there 🖐️
+
+---
+
+선택의 중요성을 깊이 인식하며, 그 이유를 고민하는 과정에서 가치를 찾습니다.<br/>
+매 순간 선택을 통해 성장하고 꾸준히 배워나가고 있습니다.
+
+<a href="https://github.com/JJIIIINN">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJIIIINN%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
+&nbsp;&nbsp;
+<a href="https://parkubin.notion.site/parkubin/a71d9b12489e4a93ab2d7c51b9b1e00b" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-fff?style=flat-square&logo=Notion&logoColor=black"/>
+</a>
