@@ -1,9 +1,12 @@
 ### Hi there 🖐️
 
----
+> 선택의 중요성을 깊이 인식하며, 그 이유를 고민하는 과정에서 가치를 찾습니다.<br/>
+> 매 순간 선택을 통해 성장하고 꾸준히 배워나가고 있습니다.
 
-선택의 중요성을 깊이 인식하며, 그 이유를 고민하는 과정에서 가치를 찾습니다.<br/>
-매 순간 선택을 통해 성장하고 꾸준히 배워나가고 있습니다.
+> I deeply recognize the importance of choices and find value through the process of contemplating their reasons.<br/>
+> I grow and continuously learn through the decisions I make at every moment.
+
+---
 
 <a href="https://github.com/JJIIIINN">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJIIIINN%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 &nbsp;&nbsp;
